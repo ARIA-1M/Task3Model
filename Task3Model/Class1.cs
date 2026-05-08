@@ -3,7 +3,7 @@
 namespace Task3Model
 {
 
-    public class Worcer
+    public class Worker
     {
         public double AvgArray()
         {
