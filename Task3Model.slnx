@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Task3Model/Task3Model.csproj" />
+  <Project Path="Task3ModelTest/Task3ModelTest.csproj" />
+</Solution>
