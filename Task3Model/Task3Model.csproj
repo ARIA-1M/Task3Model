@@ -1,9 +1,16 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net10.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	  
+	<PackageId> ARIA-1M.Task3Model</PackageId>
+	<Version>1.0.0</Version>
+	<Authors>Perevezenceva Maria</Authors>
+	<Description> подготовка к экзамену по инструменталки</Description>
+	  
   </PropertyGroup>
+    
 
 </Project>
